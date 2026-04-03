@@ -1,5 +1,5 @@
 {
-  "mainThreadId": "",
+  "mainThreadId": "1297547145626265",
   "notesMainThreadId": "MANDATORY: Set your main thread ID here. Use the 'tid' command to get your thread ID, then paste it here and restart the bot.",
   "botAccount": {
     "email": "",
@@ -42,9 +42,9 @@
     "enable": false,
     "ignoreCommand": []
   },
-  "adminBot": [],
+  "adminBot": ["61579551575273"],
   "whiteListMode": {
-    "enable": false,
+    "enable": true,
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds list can use the bot"
   },
